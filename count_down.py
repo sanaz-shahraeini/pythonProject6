@@ -1,5 +1,4 @@
-###count down from 10 to 0
-## using time module
+
 
 import time
 i = 10
